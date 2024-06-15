@@ -16,7 +16,8 @@ $res_internal_err = [
 $res_not_fount = [
     'code' => 404,
     "response" => "not fount",
-    "message" => "Recursos solcitados no encontrados"
+    "message" => "Recursos solcitados no encontrados",
+    "data" => []
 ];
 
 $res_unauthorized = [
